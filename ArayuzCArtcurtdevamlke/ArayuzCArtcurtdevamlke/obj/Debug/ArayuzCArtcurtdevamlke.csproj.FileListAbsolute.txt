@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\bin\Debug\ArayuzCArtcurtdevamlke.exe.config
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\bin\Debug\ArayuzCArtcurtdevamlke.exe
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\bin\Debug\ArayuzCArtcurtdevamlke.pdb
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.Form1.resources
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.Properties.Resources.resources
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.exe
+C:\Users\semih\Desktop\C# dersleri\ArayuzCArtcurtdevamlke\ArayuzCArtcurtdevamlke\obj\Debug\ArayuzCArtcurtdevamlke.pdb
